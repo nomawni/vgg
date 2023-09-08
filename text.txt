@@ -1,0 +1,7 @@
+VGG stands for Visual Geometry Group; it is a standard deep Convolutional Neural Network (CNN) architecture
+ with multiple layers. The “deep” refers to the number of layers with VGG-16 or VGG-19 consisting of 16 and 19
+  convolutional layers. The VGG architecture is the basis of ground-breaking object recognition models. 
+  Developed as a deep neural network, the VGGNet also surpasses baselines on many tasks 
+  and datasets beyond ImageNet. Moreover, it is now still one of the most popular image recognition 
+  architectures.
+Read more at: https://viso.ai/deep-learning/vgg-very-deep-convolutional-networks/
